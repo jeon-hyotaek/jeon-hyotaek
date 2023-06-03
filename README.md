@@ -1,3 +1,4 @@
-<h1 align="center">I'm Jeon hyotaek</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="left">Jeon hyotaek</h1>
+<h3 align="left">AI researcher</h3>
 
+Sejong Univ. Intelligent Mechatronics Engineering
